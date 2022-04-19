@@ -11,3 +11,4 @@ int main() {
     //line 12 is incomplete, refer to page 6 of Operation slides to achieve the requirement.
     printf("這個整數的個位數是%d\n", i%10);
 }
+
